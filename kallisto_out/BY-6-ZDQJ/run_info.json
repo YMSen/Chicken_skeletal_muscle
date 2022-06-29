@@ -1,0 +1,13 @@
+{
+	"n_targets": 28756,
+	"n_bootstraps": 0,
+	"n_processed": 22158125,
+	"n_pseudoaligned": 15511982,
+	"n_unique": 10000663,
+	"p_pseudoaligned": 70.0,
+	"p_unique": 45.1,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Thu Sep 16 01:09:55 2021",
+	"call": "kallisto quant -i /Lustre01/YangMS/Work/Seq/KH/kallisto_index/Gallus_kallisto_index -o 6-ZDQJ --bias -t 15 /Lustre01/YangMS/Work/Seq/KH/00clean_data_29sample/6-ZDQJ_R1.fq.gz /Lustre01/YangMS/Work/Seq/KH/00clean_data_29sample/6-ZDQJ_R2.fq.gz"
+}
